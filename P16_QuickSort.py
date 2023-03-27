@@ -10,7 +10,7 @@ vectorquick = sample(lista, 10)
 
 
 def quicksort(vectorquick):
-    #Esta función ordenara el vector que le pases como argumento con el Método Quick Sort
+    # Esta función ordenará el vector que le pases como argumento con el Método Quick Sort
 
     # Imprimimos la lista obtenida al principio (Desordenada)
     print("El vector a ordenar con quick es:", vectorquick)
