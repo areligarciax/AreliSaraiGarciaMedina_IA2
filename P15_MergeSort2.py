@@ -9,8 +9,7 @@ lista = list(range(100))  # Creamos la lista base con números del 1 al 100
 vectormerge = sample(lista, 10)
 
 def mergesort(vectormerge):
-    """Esta función ordenara el vector que le pases como argumento
-    con el Método Merge Sort"""
+    # Esta función ordenara el vector que le pases como argument con el Método Merge Sort
 
     # Imprimimos la lista obtenida al principio (Desordenada)
     print("El vector a ordenar con merge es:", vectormerge)
